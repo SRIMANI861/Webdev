@@ -1,0 +1,17 @@
+body{
+    background-color: cornflowerblue;
+
+}
+.picture{
+    background-image: linear-gradient(violet,cornflowerblue);
+
+    /* border-top: 5px solid violet; /* 2px 3px 4px solid blueviolet; */
+    /* width: 368px; */
+    border: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 14px;
+
+}
+#para{
+    color: aquamarine;
+}
